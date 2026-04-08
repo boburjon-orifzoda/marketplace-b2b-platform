@@ -1,7 +1,7 @@
 # Architecture
 
 ## Platform Scope
-The solution was designed as a multi-platform B2B marketplace ecosystem supporting web and mobile applications, operational management, logistics coordination, and analytics.
+The solution was designed as a multi-platform B2B marketplace ecosystem supporting web and mobile applications, operational management, logistics coordination, tracking, and analytics.
 
 ## Client Applications
 - Web Marketplace
@@ -17,21 +17,23 @@ The solution was designed as a multi-platform B2B marketplace ecosystem supporti
 - Inventory Routing
 - Pricing Logic
 - Delivery Tracking
+- QR Tracking Workflow
 - KPI / Incentive Engine
 
 ## Data Layer
 - Azure SQL Database
-- Transactional data storage
-- Product and warehouse data
-- Order and fulfillment records
-- KPI and reporting datasets
+- transactional product and inventory data
+- order and fulfillment records
+- delivery and status history
+- employee KPI records
+- reporting datasets
 
 ## Integrations
 - ERP / inventory sync
-- Delivery provider integrations
+- delivery provider integrations
 - AI call center integration
 - GPS tracking services
-- Reporting / BI layer
+- reporting / BI layer
 
-## Operational Design
-The platform supports regional inventory availability, nearest-location fulfillment, logistics dispatching, and centralized reporting for management and operations.
+## Expansion Readiness
+The architecture was prepared for future expansion beyond plumbing into other commercial product categories such as home appliances, office equipment, and furniture.
