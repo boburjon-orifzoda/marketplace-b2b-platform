@@ -1,11 +1,18 @@
 # B2B Marketplace Platform
 
-Enterprise-scale B2B marketplace platform built for the plumbing and industrial supply sector across Central Asia.
+Enterprise-scale B2B marketplace platform built initially for the plumbing and industrial supply sector across Central Asia, with architecture designed for future expansion into additional product categories.
 
 ## Overview
-This platform was designed to support large-scale product distribution through a regional network of factories, warehouses, and delivery channels.
+The platform was designed to support large-scale procurement, inventory visibility, fulfillment, and delivery coordination across multiple cities, warehouses, and operational regions.
 
-It enables enterprise buyers, distributors, and operational teams to manage procurement, product search, logistics, and fulfillment through a centralized digital platform.
+After launch, the marketplace supported:
+- 5,000+ business partners / supplier entities
+- 50,000+ in-stock products
+- web and mobile commerce flows
+- QR-based delivery tracking
+- KPI and incentive programs for operational teams
+
+The solution was designed not only for plumbing products, but also for future expansion into categories such as home appliances, office equipment, and furniture.
 
 ## Platform Channels
 - Web Marketplace
