@@ -30,6 +30,13 @@ The solution was designed not only for plumbing products, but also for future ex
 - KPI and incentive tracking for employees
 - Sales and operational analytics
 
+  ## Scale Highlights
+- 5,000+ onboarded business entities / partners after launch
+- 50,000+ active in-stock products
+- Multi-city warehouse and fulfillment coverage
+- Web, iOS, and Android platform support
+- Designed for future multi-category marketplace expansion
+
 ## Business Context
 The platform was created for a major industrial / plumbing distribution business with manufacturing facilities, warehouses, and delivery coverage across multiple cities and regions in Central Asia.
 
