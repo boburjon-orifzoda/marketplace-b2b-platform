@@ -60,9 +60,9 @@ Dev environment available for demonstration:
 - [Architecture](docs/architecture.md)
 - [Business Rules](docs/business-rules.md)
 - [Workflows](docs/workflows.md)
-- [Branding Overview](docs/Branding.md)
-
----
+- [Branding Overview](docs/branding.md)
+- [Integration Flow](integration-flow.md)
+- [KPI Engine](kpi-engine.md)
 
 ## Brand Identity
 
