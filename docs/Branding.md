@@ -1,4 +1,3 @@
-
 # Branding Overview
 
 ## Project Branding Scope
@@ -21,4 +20,4 @@ A structured brand system was created to ensure consistent visual communication 
 
 ## Reference
 
-- [Full Brand Book PDF](../assets/brandbook/The%20Remont%20брендбук.pdf)
+- [Full Brand Book PDF](../assets/branbook/the-remont-brandbook.pdf)
