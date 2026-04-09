@@ -59,5 +59,11 @@ Dev environment available for demonstration:
 - [Architecture](./architecture.md)
 - [Business Rules](./business-rules.md)
 - [Database Schema](./database-schema.md)
+
+## Note
+
+Source code is not included due to NDA and proprietary business restrictions.
+This repository is intended to demonstrate solution architecture, business logic, data modeling, and system design contributions.
+
 - [Integration Flow](./integration-flow.md)
 - [KPI Engine](./kpi-engine.md)
