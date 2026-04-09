@@ -56,9 +56,19 @@ Dev environment available for demonstration:
 `dev.theremont.uz`
 
 ## Documentation
-- [Architecture](./architecture.md)
-- [Business Rules](./business-rules.md)
-- [Database Schema](./database-schema.md)
+
+- [Architecture](docs/architecture.md)
+- [Business Rules](docs/business-rules.md)
+- [Workflows](docs/workflows.md)
+- [Branding Overview](docs/Branding.md)
+
+---
+
+## Brand Identity
+
+Supporting branding materials and visual identity standards used across marketplace-related digital and marketing assets.
+
+- [View Full Brand Book](assets/branbook/the-remont-brandbook.pdf)
 
 ## Note
 
