@@ -14,6 +14,8 @@ After launch, the marketplace supported:
 
 The solution was designed not only for plumbing products, but also for future expansion into categories such as home appliances, office equipment, and furniture.
 
+![Marketplace Architecture](./docs/marketplace-architecture.png)
+
 ## Platform Channels
 - Web Marketplace
 - iOS Mobile Application
