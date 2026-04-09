@@ -76,8 +76,3 @@ This repository is intended to demonstrate solution architecture, business logic
 
 
 
-
-
-
-
-- [KPI Engine](./kpi-engine.md)
