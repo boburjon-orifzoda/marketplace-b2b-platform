@@ -1,39 +1,45 @@
 # Architecture
 
 ## Platform Scope
-The solution was designed as a multi-platform B2B marketplace ecosystem supporting web and mobile applications, operational management, logistics coordination, tracking, and analytics.
+
+The solution was architected as a scalable multi-platform B2B marketplace ecosystem supporting digital commerce, logistics coordination, fulfillment operations, employee performance tracking, and operational analytics across web and mobile channels.
 
 ## Client Applications
-- Web Marketplace
-- iOS Mobile App
-- Android Mobile App
-- Admin Dashboard
-- Internal Operations Panels
+
+* Web Marketplace Platform
+* iOS Mobile Application
+* Android Mobile Application
+* Administrative Dashboard
+* Internal Operations Panels
 
 ## Core Services
-- Product Catalog Service
-- Search Service
-- Order Management
-- Inventory Routing
-- Pricing Logic
-- Delivery Tracking
-- QR Tracking Workflow
-- KPI / Incentive Engine
+
+* Product Catalog Management
+* Product Search and Discovery Services
+* Order Management Workflows
+* Inventory Routing and Allocation Logic
+* Dynamic Pricing and Promotion Logic
+* Delivery Tracking Services
+* QR-Based Shipment Tracking Workflow
+* KPI / Incentive Calculation Engine
 
 ## Data Layer
-- Azure SQL Database
-- transactional product and inventory data
-- order and fulfillment records
-- delivery and status history
-- employee KPI records
-- reporting datasets
+
+* Azure SQL Database
+* Transactional Product, Inventory, and Fulfillment Data
+* Order and Shipment Lifecycle Records
+* Delivery Status and Tracking History
+* Employee KPI / Incentive Records
+* Reporting and Analytics Datasets
 
 ## Integrations
-- ERP / inventory sync
-- delivery provider integrations
-- AI call center integration
-- GPS tracking services
-- reporting / BI layer
+
+* ERP / Inventory Synchronization
+* Third-Party Delivery Provider Integrations
+* AI-Powered Call Center Integration
+* GPS Tracking Services
+* Reporting / BI Data Feeds
 
 ## Expansion Readiness
-The architecture was prepared for future expansion beyond plumbing into other commercial product categories such as home appliances, office equipment, and furniture.
+
+The platform architecture was intentionally designed for scalable category expansion beyond plumbing and industrial supply, enabling future onboarding of additional commercial verticals such as home appliances, office equipment, and furniture.
