@@ -156,25 +156,21 @@ Example response:
 }
 ```
 
+
+
 ## Authentication
 
 ### POST /api/auth/login
-Authenticates user and returns access token.
+Authenticates application user.
 
 Example request:
-
 ```json
 {
-  "email": "admin@marketplace.com",
-  "password": "secure_password"
+  "username": "admin",
+  "password": "demo-password"
 }
-```
 
-Example response:
+##Reporting
 
-```json
-{
-  "access_token": "jwt_token_here",
-  "expires_in": 3600
-}
-```
+## GET /api/reporting/kpi
+Returns marketplace KPI summary
