@@ -62,6 +62,7 @@ Dev environment available for demonstration:
 - [Workflows](docs/workflows.md)
 - [Branding Overview](docs/branding.md)
 - [Data Model](docs/data-model.md)
+- [API Specification](docs/api-spec.md)
 - [Integration Flow](integration-flow.md)
 - [KPI Engine](kpi-engine.md)
 
