@@ -17,6 +17,7 @@ Response:
   "message": "Products endpoint works",
   "data": []
 }
+```
 
 ## Orders
 
