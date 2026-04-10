@@ -118,3 +118,63 @@ Example response:
   ]
 }
 ```
+
+## Delivery
+
+### GET /api/delivery/
+Returns delivery records.
+
+Example response:
+
+```json
+{
+  "data": [
+    {
+      "delivery_id": 9001,
+      "order_id": 1001,
+      "status": "In Transit"
+    }
+  ]
+}
+```
+
+## Partners
+
+### GET /api/partners/
+Returns registered marketplace partners.
+
+Example response:
+
+```json
+{
+  "data": [
+    {
+      "partner_id": 2001,
+      "partner_name": "Global Electronics Ltd"
+    }
+  ]
+}
+```
+
+## Authentication
+
+### POST /api/auth/login
+Authenticates user and returns access token.
+
+Example request:
+
+```json
+{
+  "email": "admin@marketplace.com",
+  "password": "secure_password"
+}
+```
+
+Example response:
+
+```json
+{
+  "access_token": "jwt_token_here",
+  "expires_in": 3600
+}
+```
