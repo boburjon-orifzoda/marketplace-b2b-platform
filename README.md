@@ -58,6 +58,7 @@ Dev environment available for demonstration:
 ## Documentation
 
 - [Architecture](docs/architecture.md)
+- [Infrastructure](docs/infrastructure.md)
 - [Business Rules](docs/business-rules.md)
 - [Workflows](docs/workflows.md)
 - [Branding Overview](docs/branding.md)
