@@ -143,7 +143,7 @@ Primary Transactional Database
 Reporting / KPI / Integration Layers
 
 
-##Notes
+## Notes
 This infrastructure documentation reflects logical enterprise solution architecture and deployment strategy.
 Specific production infrastructure implementation details are omitted due to NDA and proprietary operational restrictions.
 
