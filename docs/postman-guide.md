@@ -28,6 +28,7 @@ This guide describes how the marketplace API can be tested in Postman or similar
 
 ## Get Products
 
+
 **GET**  `/api/products/`
 
 ## Create Order
@@ -65,4 +66,20 @@ This guide describes how the marketplace API can be tested in Postman or similar
 
 **GET**   `/api/reporting/kpi`
 
+{
+  "total_orders": 1250,
+  "total_revenue": 84500,
+  "active_products": 320,
+  "pending_deliveries": 48
+}
+
+```md
+## Suggested Environment Variables
+
+- `base_url`
+- `auth_token`
+
+## Notes
+
+For portfolio use, mock/demo payloads are acceptable and help communicate API design clearly.
 
