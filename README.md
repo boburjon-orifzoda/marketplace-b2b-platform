@@ -16,6 +16,11 @@ The solution was designed not only for plumbing products, but also for future ex
 
 ![Marketplace Architecture](./docs/marketplace-architecture-v2.png)
 
+
+## Project Status
+The web marketplace platform is complete and stable. The mobile application (iOS/Android) is in its final development stage, with public launch expected shortly after mobile release.
+
+
 ## Platform Channels
 - Web Marketplace
 - iOS Mobile Application
@@ -54,6 +59,9 @@ The platform was created for a major industrial / plumbing distribution business
 Dev environment available for demonstration:
 
 `dev.theremont.uz`
+
+Public launch (theremont.uz) is upcoming, pending final mobile app release.
+
 
 ## Documentation
 
