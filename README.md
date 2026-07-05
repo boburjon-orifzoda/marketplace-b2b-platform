@@ -19,7 +19,7 @@ The solution was designed not only for plumbing products, but also for future ex
 
 ## Project Status
 The web marketplace platform is complete and stable. The mobile application (iOS/Android) is in its final development stage, with public launch expected shortly after mobile release.
-![Coming Soon Preview](./docs/IMG_2340png)
+![Coming Soon Preview](./docs/IMG_2340.png)
 
 
 
